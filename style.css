@@ -1,0 +1,51 @@
+body{
+    width: 100%;
+    margin-top: 1px;
+    margin-left: 1px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: blanchedalmond;
+}
+
+main{
+    padding: 0 20% 0 20%;
+}
+
+header{
+    background-color: gray;
+    padding: 1px;
+    border: black solid 1px;
+}
+
+.blog{
+    margin: 10px 0px 10px 20%;
+    
+}
+
+.nadpis{
+    font-size: 25px;
+}
+
+div{
+    padding: 5px ;
+    margin-bottom: 10px;
+    border: black solid 1px;
+}
+
+h3{
+    margin-bottom: 0px; 
+}
+
+h2{
+    margin: 0px;
+}
+
+button{
+    padding: 2px 15px 2px 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.title1{
+    color: gray;
+    width: 200px;
+}
